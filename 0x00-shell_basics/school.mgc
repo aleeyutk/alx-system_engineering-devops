@@ -1,2 +1,2 @@
 #!/bin/bash
- ls *oo*
+grep -l "SCHOOL" *
