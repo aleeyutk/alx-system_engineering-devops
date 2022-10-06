@@ -1,2 +1,2 @@
 #!/bin/bash
-less -FX /tmp/iamafile
+echo "$(</tmp/iamafile)"
